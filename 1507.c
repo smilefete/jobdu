@@ -1,5 +1,5 @@
 /**
-*   用位运算实现加法
+*   鐢ㄤ綅杩愮畻瀹炵幇鍔犳硶
 */
 #include <stdio.h>
 #include <stdlib.h>
